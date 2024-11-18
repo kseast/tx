@@ -35,16 +35,16 @@
     "filter": "./json/douban.json"
   }
   },
-{
-            "key": "欧歌网盘js",
-            "name": "欧歌网盘推送",
-            "type": 3,
-            "api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/4k.min.js",
-            "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/og4K.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
+  {
+    "key": "欧歌网盘js",
+    "name": "欧歌网盘推送",
+    "type": 3,
+    "api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/4k.min.js",
+    "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/og4K.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  }, 
   {
     "key": "php_heimuer",
     "name": "💖木耳(T4)",
