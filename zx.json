@@ -74,7 +74,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "order_num": 0,
-    "ext": "./js/果果4K.js"
+    "ext": "./lib/果果4K.js"
   },
   {
     "key": "hipy_js_4k剧院",
@@ -85,7 +85,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "order_num": 6,
-    "ext": "./js/4k剧院.js"
+    "ext": "./lib/4k剧院.js"
   },
   {
     "key": "柠檬",
@@ -369,7 +369,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "./json/蓝莓短剧.js"
+    "ext": "./lib/蓝莓短剧.js"
   },
   {
     "key": "ConfigCenter",
