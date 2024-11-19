@@ -250,7 +250,7 @@
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "./js/kanqiu.js"
+      "ext": "./lib/kanqiu.js"
     }
   ],
   "parses": [
